@@ -1,0 +1,17 @@
+# amount of repetitions
+reps: 4
+
+# amount of exercises per repetition
+exercises: 5
+
+# duration of each exercise in seconds
+exercise_duration: 40
+
+# duration of each break in seconds
+break_duration: 20
+
+# duration of long breaks in seconds
+long_break_duration: 60
+
+# amount of reps before there's a long break inserted
+long_break_after: 2
